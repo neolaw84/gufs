@@ -1,0 +1,6 @@
+[submodule "facetools"]
+	path = gufs/facetools
+	url = git@github.com:neolaw84/facetools.git
+[submodule "gufs/watermark_removal_pytorch"]
+	path = gufs/watermark_removal_pytorch
+	url = git@github.com:neolaw84/Watermark-Removal-Pytorch.git
